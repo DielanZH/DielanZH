@@ -10,7 +10,7 @@ Interested in the Front-End design and user interactions, I want to create dinam
  Contact me ✉
 - [LinkedIn](https://www.linkedin.com/in/daniel-diaz23/)
 - danieldiaz-123@hotmail.com
-- Portfolio : (https://dielanzh-portfolio.vercel.app)
+- Portfolio : https://dielanzh-portfolio.vercel.app
 
 Projects I worked on 🔭
 
